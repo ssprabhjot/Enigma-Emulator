@@ -1,0 +1,29 @@
+<VisualStudioProject xmlns:convtool="urn:convtool">
+  <CSHARP ProjectType="Local" ProductVersion="7.10.3077" SchemaVersion="2.0" ProjectGuid="">
+    <Build>
+      <Settings ApplicationIcon="" AssemblyKeyContainerName="" AssemblyName="Enigma" AssemblyOriginatorKeyFile="" DefaultClientScript="JScript" DefaultHTMLPageLayout="Grid" DefaultTargetSchema="IE50" DelaySign="false" OutputType="WinExe" PreBuildEvent="" PostBuildEvent="" RootNamespace="Enigma" RunPostBuildEvent="OnBuildSuccess" StartupObject="">
+        <Config Name="Debug" AllowUnsafeBlocks="False" BaseAddress="285212672" CheckForOverflowUnderflow="True" ConfigurationOverrideFile="" DefineConstants="" DocumentationFile="" DebugSymbols="True" FileAlignment="4096" IncrementalBuild="false" NoStdLib="False" NoWarn="" Optimize="False" OutputPath="..\..\bin\Debug" RegisterForComInterop="false" RemoveIntegerChecks="false" TreatWarningsAsErrors="False" WarningLevel="4" />
+        <Config Name="Release" AllowUnsafeBlocks="False" BaseAddress="285212672" CheckForOverflowUnderflow="False" ConfigurationOverrideFile="" DefineConstants="" DocumentationFile="" DebugSymbols="False" FileAlignment="4096" IncrementalBuild="false" NoStdLib="False" NoWarn="" Optimize="True" OutputPath=".\output" RegisterForComInterop="false" RemoveIntegerChecks="false" TreatWarningsAsErrors="False" WarningLevel="4" />
+      </Settings>
+      <References>
+        <Reference Name="System" AssemblyName="System" HintPath="C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.dll" />
+        <Reference Name="System.Data" AssemblyName="System.Data" HintPath="C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.Data.dll" />
+        <Reference Name="System.XML" AssemblyName="System.Xml" HintPath="C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.XML.dll" />
+        <Reference Name="System.Drawing" AssemblyName="System.Drawing" HintPath="C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.Drawing.dll" />
+        <Reference Name="System.Windows.Forms" AssemblyName="System.Windows.Forms" HintPath="C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.Windows.Forms.dll" />
+      </References>
+    </Build>
+    <Files>
+      <Include>
+        <File RelPath="AssemblyInfo.cs" BuildAction="Compile" />
+        <File RelPath="Enigma.MainForm.resources" BuildAction="EmbeddedResource" />
+        <File RelPath="About.cs" BuildAction="Compile" />
+        <File RelPath="Enigma.About.resources" BuildAction="EmbeddedResource" />
+        <File RelPath="Settings.cs" BuildAction="Compile" />
+        <File RelPath="Enigma.Settings.resources" BuildAction="EmbeddedResource" />
+        <File RelPath="Rotor.cs" BuildAction="Compile" />
+        <File RelPath="MainForm.cs" BuildAction="Compile" />
+      </Include>
+    </Files>
+  </CSHARP>
+</VisualStudioProject>

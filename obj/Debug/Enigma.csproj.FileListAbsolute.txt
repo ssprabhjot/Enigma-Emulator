@@ -1,0 +1,37 @@
+C:\Users\1_gd_apple\Downloads\Enigma_emulator_src\Enigma_emulator_src\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\1_gd_apple\Downloads\Enigma_emulator_src\Enigma_emulator_src\obj\Debug\Enigma.Settings.resources
+C:\Users\1_gd_apple\Downloads\Enigma_emulator_src\Enigma_emulator_src\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\1_gd_apple\Downloads\Enigma_emulator_src\Enigma_emulator_src\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\1_gd_apple\Downloads\bin\Debug\Enigma.exe
+C:\Users\1_gd_apple\Downloads\bin\Debug\Enigma.pdb
+C:\Users\1_gd_apple\Downloads\Enigma_emulator_src\Enigma_emulator_src\obj\Debug\Enigma.exe
+C:\Users\1_gd_apple\Downloads\Enigma_emulator_src\Enigma_emulator_src\obj\Debug\Enigma.pdb
+C:\Users\1_gd_apple\Downloads\Enigma_emulator_src\Enigma_emulator_src\obj\Debug\Enigma.About.resources
+C:\Users\1_gd_apple\Desktop\enigma\Enigma_emulator_src\Enigma_emulator_src\obj\Debug\Enigma.exe
+C:\Users\1_gd_apple\Desktop\enigma\Enigma_emulator_src\Enigma_emulator_src\obj\Debug\Enigma.pdb
+C:\Users\1_gd_apple\Desktop\enigma\bin\Debug\Enigma.exe
+C:\Users\1_gd_apple\Desktop\enigma\bin\Debug\Enigma.pdb
+C:\Users\1_gd_apple\Desktop\enigma\Enigma_emulator_src\Enigma_emulator_src\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\1_gd_apple\Desktop\enigma\Enigma_emulator_src\Enigma_emulator_src\obj\Debug\Enigma.About.resources
+C:\Users\1_gd_apple\Desktop\enigma\Enigma_emulator_src\Enigma_emulator_src\obj\Debug\Enigma.Settings.resources
+C:\Users\1_gd_apple\Desktop\enigma\Enigma_emulator_src\Enigma_emulator_src\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\1_gd_apple\Desktop\enigma\Enigma_emulator_src\Enigma_emulator_src\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\1_gd_apple\Desktop\enigma\Enigma_emulator_src\Enigma_emulator_src\obj\Debug\Enigma.Properties.Resources.resources
+F:\Projects\Enigma\Enigma_emulator_src\obj\Debug\Enigma.exe
+F:\Projects\Enigma\Enigma_emulator_src\obj\Debug\Enigma.pdb
+F:\Projects\Enigma\Enigma_emulator_src\obj\Debug\Enigma.csprojResolveAssemblyReference.cache
+F:\Projects\Enigma\Enigma_emulator_src\obj\Debug\Enigma.About.resources
+F:\Projects\Enigma\Enigma_emulator_src\obj\Debug\Enigma.Properties.Resources.resources
+F:\Projects\Enigma\Enigma_emulator_src\obj\Debug\Enigma.Settings.resources
+F:\Projects\Enigma\Enigma_emulator_src\obj\Debug\Enigma.csproj.GenerateResource.Cache
+F:\Projects\bin\Debug\Enigma.exe
+F:\Projects\bin\Debug\Enigma.pdb
+G:\3 NTFS\Projects\Enigma\Enigma_emulator_src\obj\Debug\Enigma.exe
+G:\3 NTFS\Projects\Enigma\Enigma_emulator_src\obj\Debug\Enigma.pdb
+G:\3 NTFS\Projects\Enigma\Enigma_emulator_src\obj\Debug\Enigma.csprojResolveAssemblyReference.cache
+G:\3 NTFS\Projects\Enigma\Enigma_emulator_src\obj\Debug\Enigma.About.resources
+G:\3 NTFS\Projects\Enigma\Enigma_emulator_src\obj\Debug\Enigma.Properties.Resources.resources
+G:\3 NTFS\Projects\Enigma\Enigma_emulator_src\obj\Debug\Enigma.Settings.resources
+G:\3 NTFS\Projects\Enigma\Enigma_emulator_src\obj\Debug\Enigma.csproj.GenerateResource.Cache
+G:\3 NTFS\Projects\bin\Debug\Enigma.exe
+G:\3 NTFS\Projects\bin\Debug\Enigma.pdb

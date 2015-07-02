@@ -1,0 +1,5 @@
+C:\Users\1_gd_apple\Downloads\Enigma_emulator_src\Enigma_emulator_src\obj\Release\ResolveAssemblyReference.cache
+C:\Users\1_gd_apple\Downloads\Enigma_emulator_src\Enigma_emulator_src\obj\Release\Enigma.About.resources
+C:\Users\1_gd_apple\Downloads\Enigma_emulator_src\Enigma_emulator_src\obj\Release\Enigma.Settings.resources
+C:\Users\1_gd_apple\Downloads\Enigma_emulator_src\Enigma_emulator_src\obj\Release\GenerateResource-ResGen.read.1.tlog
+C:\Users\1_gd_apple\Downloads\Enigma_emulator_src\Enigma_emulator_src\obj\Release\GenerateResource-ResGen.write.1.tlog
